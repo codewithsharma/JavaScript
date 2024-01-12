@@ -12,4 +12,4 @@ If you're new to JavaScript or want to explore more, you can get started by:
 
 1. Cloning this repository:
    ```bash
-   git clone https://github.com/your-username/javascript-learning.git
+   git clone https://github.com/codewithsharma/JavaScript.git
