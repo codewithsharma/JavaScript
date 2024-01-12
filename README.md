@@ -2,9 +2,6 @@
 
 Welcome to my JavaScript learning repository! This repository is dedicated to my journey in learning and practicing JavaScript.
 
-## Table of Contents
-
-
 ## Introduction
 
 This repository is a part of my learning process as I delve into JavaScript. It includes code snippets, small projects, and resources that I find helpful during my learning journey.
